@@ -70,7 +70,7 @@ Source: Kaggle
 
 ## 📸 Dashboard Preview
 
-![Global YouTube Statistics Dashboard](screenshots/IMG_20260802_204459.png)
+![Global YouTube Statistics Dashboard-PowerBI](IMG_20260802_204459.png)
 
 ---
 
