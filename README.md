@@ -73,7 +73,7 @@ Source: Kaggle
 ![Global YouTube Statistics Dashboard-PowerBI](IMG_20260802_204459.png)
 
 
-![Global YouTube Statistics Dashboard-PowerBI](IMG_20260802204534.png)
+![Global YouTube Statistics Dashboard-PowerBI](IMG_20260802_204534.png)
 
 
 ![Global YouTube Statistics Dashboard-PowerBI](IMG_20260802_204604.png)
