@@ -67,9 +67,10 @@ Source: Kaggle
 
 ---
 
+
 ## 📸 Dashboard Preview
 
-Add your dashboard screenshot here.
+![Global YouTube Statistics Dashboard](screenshots/IMG_20260802_204459.png)
 
 ---
 
