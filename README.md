@@ -69,6 +69,8 @@ Source: Kaggle
 
 
 ## 📸 Dashboard Preview
+![Global YouTube Statistics Dashboard-PowerBI](IMG_20260802_204426.png)
+
 
 ![Global YouTube Statistics Dashboard-PowerBI](IMG_20260802_204459.png)
 
