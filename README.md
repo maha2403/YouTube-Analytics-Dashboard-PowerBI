@@ -71,20 +71,22 @@ Source: Kaggle
 ## 📸 Dashboard Preview
 ![Global YouTube Statistics Dashboard-PowerBI](IMG_20260802_204426.png)
 
+![Global YouTube Statistics Dashboard-PowerBI](IMG_20260802_204645.png)
+
+![Global YouTube Statistics Dashboard-PowerBI](IMG_20260802_204749.png)
+
+![Global YouTube Statistics Dashboard-PowerBI](IMG_20260802_204604.png)
+
+![Global YouTube Statistics Dashboard-PowerBI](IMG_20260802_204534.png)
 
 ![Global YouTube Statistics Dashboard-PowerBI](IMG_20260802_204459.png)
 
 
-![Global YouTube Statistics Dashboard-PowerBI](IMG_20260802_204534.png)
 
 
-![Global YouTube Statistics Dashboard-PowerBI](IMG_20260802_204604.png)
 
 
-![Global YouTube Statistics Dashboard-PowerBI](IMG_20260802_204645.png)
 
-
-![Global YouTube Statistics Dashboard-PowerBI](IMG_20260802_204749.png)
 
 
 ---
